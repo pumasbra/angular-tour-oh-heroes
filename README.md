@@ -1,27 +1,26 @@
 # AngularTourOhHeroes
+El proyecto se realizo para desarrollar una app en la capa de la vista y poder asi sacar comparaciones con respectivas ventajas y desventajas
+El proyecto fue desarrollado con  [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
+## Servidor de desarrollo
 
-## Development server
+Desde **CMD** usar el comando `ng serve`. Abrir navegador en  `http://localhost:4200/`. La app cargara automaticamente
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Desde **CMD** usar el comando `ng build` para construir el proyevto. Los artifacts seran almacenados en la carpeta`dist/` . Use  `--prod` cuando sea en produccion.
 
-## Running unit tests
+## Pruebas Unitarias
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Desde **CMD** usar el comando `ng test` para ejecutar pruebas unitarias via  [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## Pruebas end-to-end
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Desde **CMD** usar el comando `ng e2e` para ejecutar pruebas end-to-end  via [Protractor](http://www.protractortest.org/).
 
-## Further help
+## Ayuda Acerca de angular
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Mas informacion sobre Angular CLI usa  `ng help` o visita el web site [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+Si quieres el tutorial paso por paso  (idioma ingles )visite el [Tutorial: Tour of Heroes](https://angular.io/tutorial)
