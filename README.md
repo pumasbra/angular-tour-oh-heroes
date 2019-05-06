@@ -9,7 +9,7 @@ Desde **CMD** usar el comando `ng serve`. Abrir navegador en  `http://localhost:
 
 ## Build
 
-Desde **CMD** usar el comando `ng build` para construir el proyevto. Los artifacts seran almacenados en la carpeta`dist/` . Use  `--prod` cuando sea en produccion.
+Desde **CMD** usar el comando `ng build` para construir el proyecto. Los artifacts seran almacenados en la carpeta`dist/` . Use  `--prod` cuando sea en produccion.
 
 ## Pruebas Unitarias
 
