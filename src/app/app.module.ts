@@ -29,7 +29,7 @@ import { HeroSearchComponent } from './hero-search/hero-search.component';
     AppRoutingModule,
     HttpClientModule,
 // El modulo HttpClientInMemoryWebApiModule  intercepta HTTP requests
-// y retorna silulaciones responses como si vinieran de un servidor.
+// y retorna simulaciones responses como si vinieran de un servidor.
 // Remover cuando implementes el real.
    HttpClientInMemoryWebApiModule.forRoot(
     InMemoryDataService, { dataEncapsulation: false }
